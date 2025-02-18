@@ -1,0 +1,6 @@
+커패시터 7.0.1 버젼 버그 수정하기
+
+수정할 파일 위치
+ node_modules/@capacitor/android/capacitor/src/main/java/com/getcapacitor/FileUtils.java
+
+다음 파일로 덮어씌우기 root/FileUtils.java
